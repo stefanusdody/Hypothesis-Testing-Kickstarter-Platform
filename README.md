@@ -15,4 +15,4 @@
 
 3.  Objective
 
-    Melakukan analisa terhadap dataset apakah ada hubungan antara Jumlah yang dijanjikan dalam mata uang proyek (variabel usd pledged) dengan statement yang berkaitan dengan keberhasilan peluncuran produk (variabel state)   
+    Melakukan Hypothesis testing terhadap dataset apakah ada hubungan antara Jumlah yang dijanjikan dalam mata uang proyek (variabel usd pledged) dengan statement yang berkaitan dengan keberhasilan peluncuran produk (variabel state)   
